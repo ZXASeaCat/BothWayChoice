@@ -1,0 +1,14 @@
+D:\学习\visual studio 2010\双选系统\Model\bin\Debug\Model.dll
+D:\学习\visual studio 2010\双选系统\Model\bin\Debug\Model.pdb
+D:\学习\visual studio 2010\双选系统\Model\obj\Debug\Model.dll
+D:\学习\visual studio 2010\双选系统\Model\obj\Debug\Model.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\Model\bin\Debug\Model.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\Model\bin\Debug\Model.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\Model\obj\Debug\Model.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\Model\obj\Debug\Model.pdb
+D:\Desktop\管理员端\Model\bin\Debug\Model.dll
+D:\Desktop\管理员端\Model\bin\Debug\Model.pdb
+D:\Desktop\管理员端\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Desktop\管理员端\Model\obj\Debug\Model.dll
+D:\Desktop\管理员端\Model\obj\Debug\Model.pdb

@@ -1,0 +1,27 @@
+D:\学习\visual studio 2010\双选系统\BLL\bin\Debug\BLL.dll
+D:\学习\visual studio 2010\双选系统\BLL\bin\Debug\BLL.pdb
+D:\学习\visual studio 2010\双选系统\BLL\bin\Debug\DAL.dll
+D:\学习\visual studio 2010\双选系统\BLL\bin\Debug\Model.dll
+D:\学习\visual studio 2010\双选系统\BLL\bin\Debug\DAL.pdb
+D:\学习\visual studio 2010\双选系统\BLL\bin\Debug\Model.pdb
+D:\学习\visual studio 2010\双选系统\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\学习\visual studio 2010\双选系统\BLL\obj\Debug\BLL.dll
+D:\学习\visual studio 2010\双选系统\BLL\obj\Debug\BLL.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\BLL\bin\Debug\BLL.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\BLL\bin\Debug\BLL.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\BLL\bin\Debug\DAL.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\BLL\bin\Debug\Model.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\BLL\bin\Debug\DAL.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\BLL\bin\Debug\Model.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\BLL\obj\Debug\BLL.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\BLL\obj\Debug\BLL.pdb
+D:\Desktop\管理员端\BLL\bin\Debug\BLL.dll
+D:\Desktop\管理员端\BLL\bin\Debug\BLL.pdb
+D:\Desktop\管理员端\BLL\bin\Debug\DAL.dll
+D:\Desktop\管理员端\BLL\bin\Debug\Model.dll
+D:\Desktop\管理员端\BLL\bin\Debug\DAL.pdb
+D:\Desktop\管理员端\BLL\bin\Debug\Model.pdb
+D:\Desktop\管理员端\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Desktop\管理员端\BLL\obj\Debug\BLL.dll
+D:\Desktop\管理员端\BLL\obj\Debug\BLL.pdb

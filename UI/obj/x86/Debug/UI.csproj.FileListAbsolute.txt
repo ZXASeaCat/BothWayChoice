@@ -1,0 +1,95 @@
+D:\学习\visual studio 2010\双选系统\UI\bin\Debug\UI.exe.config
+D:\学习\visual studio 2010\双选系统\UI\bin\Debug\UI.exe
+D:\学习\visual studio 2010\双选系统\UI\bin\Debug\UI.pdb
+D:\学习\visual studio 2010\双选系统\UI\bin\Debug\BLL.dll
+D:\学习\visual studio 2010\双选系统\UI\bin\Debug\Model.dll
+D:\学习\visual studio 2010\双选系统\UI\bin\Debug\DAL.dll
+D:\学习\visual studio 2010\双选系统\UI\bin\Debug\BLL.pdb
+D:\学习\visual studio 2010\双选系统\UI\bin\Debug\Model.pdb
+D:\学习\visual studio 2010\双选系统\UI\bin\Debug\DAL.pdb
+D:\学习\visual studio 2010\双选系统\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+D:\学习\visual studio 2010\双选系统\UI\obj\x86\Debug\Interop.VsWebApplicationHost.dll
+D:\学习\visual studio 2010\双选系统\UI\obj\x86\Debug\UI.csproj.ResolveComReference.cache
+D:\学习\visual studio 2010\双选系统\UI\obj\x86\Debug\UI.FormLogin.resources
+D:\学习\visual studio 2010\双选系统\UI\obj\x86\Debug\UI.FormMain.resources
+D:\学习\visual studio 2010\双选系统\UI\obj\x86\Debug\UI.Properties.Resources.resources
+D:\学习\visual studio 2010\双选系统\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+D:\学习\visual studio 2010\双选系统\UI\obj\x86\Debug\UI.exe
+D:\学习\visual studio 2010\双选系统\UI\obj\x86\Debug\UI.pdb
+D:\编程\1\双选系统\UI\bin\Debug\UI.exe.config
+D:\编程\1\双选系统\UI\obj\x86\Debug\Interop.VsWebApplicationHost.dll
+D:\编程\1\双选系统\UI\obj\x86\Debug\UI.csproj.ResolveComReference.cache
+D:\编程\1\双选系统\UI\obj\x86\Debug\UI.exe
+D:\编程\1\双选系统\UI\obj\x86\Debug\UI.pdb
+D:\编程\1\双选系统\UI\bin\Debug\UI.exe
+D:\编程\1\双选系统\UI\bin\Debug\UI.pdb
+D:\编程\1\双选系统\UI\bin\Debug\BLL.dll
+D:\编程\1\双选系统\UI\bin\Debug\Model.dll
+D:\编程\1\双选系统\UI\bin\Debug\DAL.dll
+D:\编程\1\双选系统\UI\bin\Debug\BLL.pdb
+D:\编程\1\双选系统\UI\bin\Debug\Model.pdb
+D:\编程\1\双选系统\UI\bin\Debug\DAL.pdb
+D:\编程\1\双选系统\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+D:\编程\1\双选系统\UI\obj\x86\Debug\UI.FormLogin.resources
+D:\编程\1\双选系统\UI\obj\x86\Debug\UI.FormMain.resources
+D:\编程\1\双选系统\UI\obj\x86\Debug\UI.Properties.Resources.resources
+D:\编程\1\双选系统\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2010\新建文件夹 (2)\双选系统\UI\bin\Debug\UI.exe.config
+d:\Documents\Visual Studio 2010\新建文件夹 (2)\双选系统\UI\obj\x86\Debug\Interop.VsWebApplicationHost.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (2)\双选系统\UI\obj\x86\Debug\UI.csproj.ResolveComReference.cache
+d:\Documents\Visual Studio 2010\新建文件夹 (2)\双选系统\UI\obj\x86\Debug\UI.exe
+d:\Documents\Visual Studio 2010\新建文件夹 (2)\双选系统\UI\obj\x86\Debug\UI.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\bin\Debug\UI.exe.config
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\obj\x86\Debug\Interop.VsWebApplicationHost.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\obj\x86\Debug\UI.csproj.ResolveComReference.cache
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\obj\x86\Debug\UI.exe
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\obj\x86\Debug\UI.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\bin\Debug\UI.exe
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\bin\Debug\UI.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\bin\Debug\BLL.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\bin\Debug\Model.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\bin\Debug\DAL.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\bin\Debug\BLL.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\bin\Debug\Model.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\bin\Debug\DAL.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\obj\x86\Debug\UI.FormLogin.resources
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\obj\x86\Debug\UI.FormMain.resources
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\obj\x86\Debug\UI.Properties.Resources.resources
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\双选系统\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\bin\Debug\UI.exe.config
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\obj\x86\Debug\Interop.VsWebApplicationHost.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\obj\x86\Debug\UI.csproj.ResolveComReference.cache
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\obj\x86\Debug\UI.exe
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\obj\x86\Debug\UI.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\bin\Debug\UI.exe
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\bin\Debug\UI.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\bin\Debug\BLL.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\bin\Debug\Model.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\bin\Debug\DAL.dll
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\bin\Debug\BLL.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\bin\Debug\Model.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\bin\Debug\DAL.pdb
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\obj\x86\Debug\UI.FormLogin.resources
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\obj\x86\Debug\UI.FormMain.resources
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\obj\x86\Debug\UI.Properties.Resources.resources
+d:\Documents\Visual Studio 2010\新建文件夹 (3)\管理员端\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+D:\Desktop\管理员端\UI\bin\Debug\UI.exe.config
+D:\Desktop\管理员端\UI\obj\x86\Debug\Interop.VsWebApplicationHost.dll
+D:\Desktop\管理员端\UI\obj\x86\Debug\UI.csproj.ResolveComReference.cache
+D:\Desktop\管理员端\UI\obj\x86\Debug\UI.exe
+D:\Desktop\管理员端\UI\obj\x86\Debug\UI.pdb
+D:\Desktop\管理员端\UI\bin\Debug\UI.exe
+D:\Desktop\管理员端\UI\bin\Debug\UI.pdb
+D:\Desktop\管理员端\UI\bin\Debug\BLL.dll
+D:\Desktop\管理员端\UI\bin\Debug\Model.dll
+D:\Desktop\管理员端\UI\bin\Debug\DAL.dll
+D:\Desktop\管理员端\UI\bin\Debug\BLL.pdb
+D:\Desktop\管理员端\UI\bin\Debug\Model.pdb
+D:\Desktop\管理员端\UI\bin\Debug\DAL.pdb
+D:\Desktop\管理员端\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Desktop\管理员端\UI\obj\x86\Debug\UI.FormLogin.resources
+D:\Desktop\管理员端\UI\obj\x86\Debug\UI.FormMain.resources
+D:\Desktop\管理员端\UI\obj\x86\Debug\UI.Properties.Resources.resources
+D:\Desktop\管理员端\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
